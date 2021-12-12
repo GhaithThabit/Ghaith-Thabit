@@ -1,0 +1,235 @@
+#testimonials {
+  background-color: #ef8172;
+  text-align: center;
+  color: white;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.h2-personal {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.dog-personal {
+  border-radius: 100%;
+  width: 10%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logos {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.container-fluid{
+  padding: 0;
+}
+
+.container-fluid-personal {
+  padding: 0 15%;
+}
+
+h3, p {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.h3 {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.p {
+  color: gray;
+  font-size: 1rem;
+}
+
+.navbar {
+  margin: 0 0 7%;
+  margin-bottom: 2.5rem;
+  margin-top: 0;
+  padding-top: 1%;
+  color: white;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light", sans-serif;
+}
+
+.text-danger-personal {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+
+.nav-link-personal {
+  color: white;
+}
+.nav{
+  margin-left: auto;
+}
+
+.Ghaith {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+}
+
+.row-personal {
+  margin-top: 0;
+  padding-bottom: 5%;
+  margin-bottom: 6%;
+}
+
+.cards {
+  margin: 1.5rem;
+  margin-top: 0;
+}
+
+.card-header {
+  padding: 0;
+  border-color: black;
+  border: 1px solid;
+}
+
+.card-body {
+  padding: 1rem;
+  margin: 0;
+  border-color: black;
+  border: 1px solid;
+}
+
+.card-personal {
+  padding: 0 1rem 0;
+  padding: 1rem;
+}
+
+.first-imperision-personal {
+  font-family: "Montserrat", sans-serif;
+  padding-bottom: 1rem;
+}
+#features{
+  padding:0;
+  margin: 0;
+  text-align: center;
+}
+
+.features-personal {
+  margin: 0rem;
+  margin-bottom: 6rem;
+  margin-top: 6rem;
+  padding: 0;
+  margin-left: 3%;
+}
+
+.icon-personal {
+  margin-bottom: 1.5rem;
+  margin-top: 1rem;
+  border-radius: 100%;
+  background-color: #ef8172;
+  height: 7rem;
+  width: 7rem;
+  text-align: center;
+}
+
+.icon-personal:hover {
+  background-color: #dc3545;
+}
+
+.img-title {
+  width: 100%;
+  height: 100%;
+}
+i{
+  margin-right: 10px;
+}
+
+.feature-box {
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+}
+
+.btn {
+  width: 100%;
+  display: inline-block;
+}
+
+.pricing-text-personal {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.simple {
+  margin-top: 1rem;
+  text-align: left;
+  padding: 0;
+}
+
+.pricing-text-h2-p {
+  margin-top: 1rem;
+  padding: 3rem;
+}
+
+#cta {
+  background-color: #dc3545;
+}
+
+#footer {
+  background-color: #dc3545;
+}
+
+.footer-buttons {
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+.btnp-header {
+  width: 35%;
+  padding: .5rem;
+  margin-right: 1rem;
+  border-color: #fff;
+}
+.btnp-header:hover{
+  background-color: #fff;
+  color: black;
+  border-color: #dc3545;
+}
+.btnp {
+  width: 20%;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  border-color: #fff;
+}
+.btnp:hover{
+  background-color: #fff;
+  color: black;
+  border-color: #dc3545;
+}
+
+.h3-footer-personal {
+  color: white;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+}
+
+.p-footer-personal {
+  color: white;
+  font-size: .5rem;
+  margin-bottom: 0;
+}
